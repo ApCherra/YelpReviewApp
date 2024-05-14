@@ -29,3 +29,6 @@ Follow these steps to set up your environment:
    
    ```bash
    Download the application or git clone. Run the milestone.py to get started.
+
+   
+![YulpScreenShot](https://github.com/ApCherra/YelpReviewApp/assets/135000565/98c33809-440c-4778-89e3-a93cf7287069)
